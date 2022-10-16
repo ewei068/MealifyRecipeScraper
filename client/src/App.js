@@ -6,9 +6,9 @@ function App() {
     <div className="App">
       <div>
         <div class="jumbotron justify-content-center mt-5">
-          <h1>Add recipes here</h1>
-          <br />
-          <br />
+        <img src="mealify_text.png" width="300" height="300"/>
+
+          <h1>Mealify: Add recipes here</h1>
           <Recipes />
         </div>
       </div>
