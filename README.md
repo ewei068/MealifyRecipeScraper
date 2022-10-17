@@ -1,4 +1,7 @@
 # MealifyRecipeScraper
+<p align="center">
+  <img src="https://github.com/ewei068/MealifyRecipeScraper/blob/b18faa56927b94d16e570d1c2cc65ade95b437a2/client/public/mealify_text.png?raw=true" width="300" height="300">
+</p>
 
 Recipe scraper for Mealify app, created @ CalHacks 9.0!
 
